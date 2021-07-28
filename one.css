@@ -1,0 +1,122 @@
+body{
+  background-color: #041530;
+  margin-left: 30px;
+}
+
+body{
+  border: 30px solid #fbb343;
+  border-top: 0px;
+  /*border-bottom: 0px;*/
+  margin: 0px;
+}
+
+#cradlogo{
+  width: 30%;
+  height: 30%;
+  padding-left: 420px;
+  padding-top: 20px;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+p{
+  color: white;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  padding-left: 300px;
+  padding-right: 300px;
+  font-size: 110%;
+}
+
+/* #onep {
+  padding-top: 80px
+} */
+
+/* #twop{
+  padding-top: 80px;
+} */
+
+#htwo{
+  padding-top: 8px;
+  border-left: 5px solid #fbb343;
+  border-right: 5px solid #fbb343;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#cradone{
+  border-bottom: 3px solid #fbb343;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+#fna{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 150%;
+}
+
+.forma{
+  align-items: center;
+  text-align: center;
+  margin: auto;
+
+}
+
+#nain{
+  height: 26px;
+  width: 300px
+}
+
+#lna{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 150%;
+}
+
+#naint{
+  height: 26px;
+  width: 300px
+}
+#email{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 150%;
+}
+
+#emaint{
+  height: 26px;
+  width: 300px
+}
+
+#subint{
+  height: 60px;
+  width: 140px;
+  background-color: #ebb434;
+  color: black;
+  font-family: 'Lato', sans-serif;
+  font-size: 130%;
+  border-radius: 25px;
+}
+
+#imgt{
+  height: 180px;
+  width: auto;
+  align-items: center;
+}
+
+.mask{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 150%;
+}
