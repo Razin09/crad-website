@@ -1,0 +1,21 @@
+body{
+  background-color: #041530;
+  color: white;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  padding-top: 30px
+}
+
+
+#imgt{
+  height: 200px;
+  width: 200px;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.mask{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 150%;
+}
